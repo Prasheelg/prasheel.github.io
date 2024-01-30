@@ -6,7 +6,7 @@ favicon: images/apple-touch-icon.png
 version: 2
 
 # Personal info
-name: Kiran Kashyap
+name: Prasheel G
 title: A Proud Agile Practitioner
 email: kiran.kashyap.ds@gmail.com
 
@@ -14,12 +14,12 @@ email: kiran.kashyap.ds@gmail.com
 darkmode: never
 
 # Social links
-github_username:  kirankashyap
+github_username:  prasheelg
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: kirankashyapds
+linkedin_username: prasheelg
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -41,7 +41,7 @@ about_title: A Glimpse of Kiran
 about_profile_image: https://www.gravatar.com/avatar/6e9941b8d9b1ada5ad44855d21496de4?s=300
 about_content: | # this will include new lines to allow paragraphs     
   
-  Kiran Kashyap is an Agile Change Agent and a DevOps enthusiast.  His daily job is filled with exciting activities ranging from fighting impediments raised by his teams to proudly serving coffees to stressed-out team members.
+  Prasheel G is an Agile Change Agent and a DevOps enthusiast.  His daily job is filled with exciting activities ranging from fighting impediments raised by his teams to proudly serving coffees to stressed-out team members.
   
   As a change agent, he has taught agility and DevOps to his teams and is involved in exploring ways of teaching and practicing agility, with a unique flavor of his own.  He also is a familiar speaker in Agile and DevOps conferences, with a passion for demo-based interactive talks.
 
