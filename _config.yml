@@ -7,11 +7,11 @@ version: 2
 
 # Personal info
 name: Prasheel G
-title: A Proud Agile Practitioner
-email: kiran.kashyap.ds@gmail.com
+title: Software Engineer
+email: prasheel.sg6@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username:  prasheelg
@@ -19,7 +19,7 @@ github_username:  prasheelg
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: prasheelg
+linkedin_username: prasheel-gopal
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -37,7 +37,7 @@ linkedin_username: prasheelg
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: A Glimpse of Kiran
+about_title: A Glimpse of Prasheel
 about_profile_image: https://www.gravatar.com/avatar/6e9941b8d9b1ada5ad44855d21496de4?s=300
 about_content: | # this will include new lines to allow paragraphs     
   
